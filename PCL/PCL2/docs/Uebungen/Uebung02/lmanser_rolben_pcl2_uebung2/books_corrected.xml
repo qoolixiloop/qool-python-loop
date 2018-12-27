@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book id="1" movie="yes">
+		<title>Lord of the Rings</title>
+		<author nobel="no" nationality="British">J.R.R. Tolkien</author>
+			<author-birthdate>January 3, 1892</author-birthdate>
+			<author-deathday>September 2, 1973</author-deathday> <!-- open and ending tags have to match-->
+		<film-director oscar="3" nationality="New Zealand">Peter Jackson</film-director>
+			<director-birthdate>October 31, 1961</director-birthdate>
+			<director-deathday/>
+	</book>
+	<book id="2" movie="no"> <!-- quotationmarks missing -->
+		<title>The Martian Chronicles</title>
+		<author nobel="no" nationality="American">Ray Bradbury</author>
+			<author-birthdate>August 22, 1920</author-birthdate>
+			<author-deathday>June 5, 2012</author-deathday>
+		<film-director/>
+	</book>
+	<book id="3" movie="yes">
+		<title>The Da Vinci Code</title>
+		<author>Dan Brown</author>
+		<film-director>Ron Howard</film-director> <!-- opened tags have to be closed - be it as a self-closing tag or a normal closing tag -->
+	</book>
+	<book id="4" movie="yes">
+		<title>For Whom the Bell Tolls</title>
+		<author nobel="yes" nationality="American">Ernest Hemingway</author>
+			<author-birthdate>July 21, 1899</author-birthdate>
+			<author-deathday>July 2, 1961</author-deathday>
+		<film-director oscars="0" nationality="American">Sam Wood</film-director>
+			<director-birthdate>July 10, 1884</director-birthdate>
+			<director-deathday>September 22, 1949</director-deathday>
+	</book>
+	<book id="5" movie="no">
+		<title>Rayuela</title>
+		<author>Julio Cortázar</author> <!-- XML is case-sensitive -> <Author></author> tags don't match-->
+		<film-director/>
+	</book>
+	<book id="6" movie="no">
+		<title>Pedro Páramo</title>
+		<author>Juan Rulfo</author>
+		<film-director/>
+	</book>
+	<book id="7" movie="no">
+		<title>Der Schwarm</title>
+		<author nobel="no" nationality="German">Frank Schätzing</author>
+			<author-birthdate>May 28, 1957</author-birthdate>
+			<author-deathday/>
+		<film-director/>
+	</book>
+	<book id="8" movie="no"> <!-- attributes can only be defined once for an element -->
+		<title>Die Physiker</title>
+		<author>Friedrich Dürrenmatt</author>
+		<film-director/>
+	</book>
+	<book id="9" movie="yes">
+		<title>L'Étranger</title>
+		<author>Albert Camus</author>
+		<film-director>Luchino Visconti</film-director>
+	</book>
+	<book id="10" movie="no">
+		<title>Cien años de soledad</title>
+		<author>Gabriel García Márquez</author>
+		<film-director/>
+	</book>
+</books> <!-- root element (of which you can only have one in your file) has to get closed as well -->

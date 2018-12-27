@@ -1,0 +1,12 @@
+Tom	m
+Huck	m
+Becky	f
+Sid	m
+Sidney	m
+Jim	m
+Ben	m
+Mary	f
+Peter	m
+Klaus	m
+Hendricks	m
+Tasso	m

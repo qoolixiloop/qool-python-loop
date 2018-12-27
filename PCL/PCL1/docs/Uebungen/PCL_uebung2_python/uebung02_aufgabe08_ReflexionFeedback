@@ -1,0 +1,19 @@
+Author
+------------
+Roland Benz, 97-923-163
+
+Reflexion/Feedback
+----------------------------------
+a) Fasse deine Erkenntnisse und Lernfortschritte in zwei Sätzen zusammen.
+
+    In Bezug auf Python habe ich die Syntax der Sprache; die Steueranweisung (Control Statements) Branching und Looping; die Datenstruktur (Data Structure) List und String und einige Methoden; Terminal Input/Output Methoden; und einige Klassen/Methoden der "io" Assembly/Library kennengelernt und/oder benutzt.
+
+    In Bezug auf CL habe ich in Aufgabe 5 gelernt, dass es regelbasiert nicht möglich ist, alleine anhand der Morphologie die Wortarten (Pos-Tags) der Wörter zu bestimmen, sondern auch die Syntax wichtige Informationen liefert. Um die Aufgabe 5 perfekt zu lösen, wären nicht 2 Stunden, sondern mindestens ein Headcount einer kleinen Professur nötig.
+
+b) Wie viel Zeit hast du in diese Übungen investiert?
+
+Etwa zehn Stunden. Ich habe jedoch die meiste Zeit für Aufgabe 5 und 6 verwendet. 
+    Für Übung 6 etwa fünf Stunden, da ich noch kein Debugger-PlugIn auf dem Geany Editor installiert habe und den Zeilen-Debugger pdb benutzen musste.  
+    Ich habe einiges an Zeit gebraucht, beim Versuch das Debugger-PlugIn auf dem Geany Editor zu installieren. Aber diese Dateien sind nur in Source Code erhältlich, müssen mit einem C-Compiler compiliert, dann installiert werden.
+
+Ich wäre fröh, wenn mich im nächsten Tutorat jemand bei der Installation assistieren könnte.

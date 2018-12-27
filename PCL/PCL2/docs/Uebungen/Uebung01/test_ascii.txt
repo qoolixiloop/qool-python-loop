@@ -1,0 +1,4 @@
+Das ist ein Beispieltext.
+
+ASCII unterstuetzt nicht mal Umlaute.
+

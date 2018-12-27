@@ -1,0 +1,10 @@
+gross ADJA
+schnell ADJD
+schon ADV
+der ART
+zwei CARD
+2015 CARD
+Computer NN
+UZH NE
+gehen VVINF
+gehst VVFIN

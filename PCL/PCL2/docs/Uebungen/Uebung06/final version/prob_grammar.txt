@@ -1,0 +1,8 @@
+S -> NP VP [1.0]
+PP -> P NP [1.0]
+NP -> Det N [0.4] | Det N PP [0.3] | 'I' [0.3]
+VP -> V NP [0.24] | VP PP [0.76]
+Det -> 'an' [0.5] | 'my' [0.5]
+N -> 'elephant' [0.3] | 'pajamas' [0.2] | 'elk' [0.3] | 'shorts' [0.2]
+V -> 'shot' [1.0]
+P -> 'in' [1.0]

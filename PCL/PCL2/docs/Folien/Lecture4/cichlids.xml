@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cichlids>
+    <cichlid ID="c1">
+		<name>Zeus</name>
+		<color>gold</color>
+		<teeth>molariform</teeth>
+		<breeding_type>lekking</breeding_type>
+	</cichlid>
+	<cichlid ID="c2">
+		<name>Nemo</name>
+		<color>green</color>
+		<teeth>molariform</teeth>
+		<breeding_type>harem</breeding_type>
+	</cichlid>
+	<cichlid ID="c3">
+		<name>Donald</name>
+		<color>gold</color>
+		<teeth>papiliform</teeth>
+		<breeding_type>pair bonding</breeding_type>
+	</cichlid>
+</cichlids>

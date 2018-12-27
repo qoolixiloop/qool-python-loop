@@ -1,0 +1,75 @@
+\documentclass[12pt]{article}
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\title{Programiertechniken in der Computerlinguistik II: Assignment 6}
+\author{Linus Manser (13-791-132), Roland Benz (97-923-163)}
+\date{Abgabe: 2016/06/08}
+
+\begin{document}
+
+\maketitle
+\section{Grammar}
+\begin{verbatim}
+Grammar with 15 productions (start state = S)
+    S -> NP VP
+    PP -> P NP
+    NP -> Det N
+    NP -> Det N PP
+    NP -> 'I'
+    VP -> V NP
+    VP -> VP PP
+    Det -> 'an'
+    Det -> 'my'
+    N -> 'elephant'
+    N -> 'pajamas'
+    N -> 'elk'
+    N -> 'shorts'
+    V -> 'shot'
+    P -> 'in'
+\end{verbatim}
+\section{Syntax trees}
+\subsection{'I shot an elephant in my pajamas'}
+\begin{enumerate}
+\item\begin{center}
+\Tree [.S
+        [.NP I ]
+        [.VP
+          [.VP [.V shot ] [.NP [.Det an ] [.N elephant ] ] ]
+          [.PP [.P in ] [.NP [.Det my ] [.N pajamas ] ] ] ] ]
+
+\end{center}
+\item\begin{center}
+\Tree [.S
+        [.NP I ]
+        [.VP
+          [.V shot ]
+          [.NP
+            [.Det an ]
+            [.N elephant ]
+            [.PP [.P in ] [.NP [.Det my ] [.N pajamas ] ] ] ] ] ]
+
+\end{center}
+\end{enumerate}
+\subsection{'I shot an elk in my shorts'}
+\begin{enumerate}
+\item\begin{center}
+\Tree [.S
+        [.NP I ]
+        [.VP
+          [.VP [.V shot ] [.NP [.Det an ] [.N elk ] ] ]
+          [.PP [.P in ] [.NP [.Det my ] [.N shorts ] ] ] ] ]
+
+\end{center}
+\item\begin{center}
+\Tree [.S
+        [.NP I ]
+        [.VP
+          [.V shot ]
+          [.NP
+            [.Det an ]
+            [.N elk ]
+            [.PP [.P in ] [.NP [.Det my ] [.N shorts ] ] ] ] ] ]
+
+\end{center}
+\end{enumerate}
+\end{document}

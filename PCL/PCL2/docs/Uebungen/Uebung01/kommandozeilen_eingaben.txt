@@ -1,0 +1,58 @@
+#Test1
+python Aufgabe3.py s/Regex/Python/g
+(Enter, dann 3 Mal Ctrl-D)
+
+#Test2
+python Aufgabe3.py
+Regex macht spass (Enter, dann 3 Mal Ctrl-D)
+couldnt replace any text!
+
+#Test3
+echo "Regex macht spass" | python Aufgabe3.py s/Regex/Python/g
+Python macht spass
+
+#Test4
+python Aufgabe3.py s/Regex/Python/g
+Regex macht spass (Enter, dann 3 Mal Ctrl-D)
+Python macht spass
+
+#Test5
+python Aufgabe3.py s/Regex/Python/g -o out.txt
+Regex macht spass (Enter, dann 3 Mal Ctrl-D)
+wrote text to file 'out.txt' ...
+Python macht spass
+
+#Test6
+python Aufgabe3.py s/Regex/Python/g -o out.txt -e latin1
+Regex macht spöss (Enter, dann 3 Mal Ctrl-D)
+wrote text to file 'out.txt' ...
+Python macht sp�ss
+$file -i out.txt (Enter)
+charset=iso-8859-1
+
+#Test7
+python Aufgabe3.py s/Regex/Python/g -o out.txt -e latin1 -f test_latin1_.txt
+Das ist ein Beispieltext
+þorsteinn heit maðr. Hann var Egilsson.
+TEST ðéóæÆ.
+Je suis désolé.
+üÜäÄöÖÉéàÀèÈ
+ÿ#±Ç[]
+$file -i out.txt (Enter)
+charset=iso-8859-1
+
+## Python Code um Encoding einer Textdatei zu ändern.
+import codecs
+in_filename = "/media/benzro/OS/Users/benzro/Desktop/Studium Uni/" \
+                "2)ZweitesSemester/27)PCL-2/Uebungen/Uebung01/test_latin1.txt"
+out_filename="/media/benzro/OS/Users/benzro/Desktop/Studium Uni/" \
+                "2)ZweitesSemester/27)PCL-2/Uebungen/Uebung01/test_latin1_.txt"
+infile = codecs.open(in_filename, 'r', encoding='utf-8')
+outfile = codecs.open(out_filename, 'w', encoding='latin1')
+for line in infile:
+     outfile.write(line)
+infile.close()
+outfile.close()
+
+file -i test_latin1_.txt
+charset=iso-8859-1

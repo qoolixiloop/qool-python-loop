@@ -1,0 +1,138 @@
+Sonnensystem
+
+Als Sonnensystem bezeichnet man das gravitative System der Sonne. Das Sonnensystem umfasst die Sonne, die sie umkreisenden Planeten und deren natürliche Satelliten, die Zwergplaneten und andere Kleinkörper wie Kometen, Asteroiden und Meteoroiden, sowie die Gesamtheit aller Gas- und Staubteilchen, die durch die Anziehungskraft der Sonne in einer himmelsmechanisch hierarchischen Ordnung zusammengehalten werden. Zum Sonnensystem gehört auch die Erde.
+Allgemeine Struktur
+
+Im Zentrum des Sonnensystems befindet sich die Sonne als Zentralstern. Darauf folgen die terrestrischen Planeten Merkur, Venus, Erde und Mars, die den inneren Teil dieses Planetensystems ausmachen. Den äußeren Teil bilden die Gasplaneten Jupiter, Saturn, Uranus und Neptun. Weitere Begleiter der Sonne sind neben Zwergplaneten Millionen von Asteroiden (auch Planetoiden oder Kleinplaneten genannt) und Kometen, die vorwiegend in drei Kleinkörperzonen des Sonnensystems anzutreffen sind: dem Asteroidengürtel zwischen den inneren und den äußeren Planeten, dem Kuipergürtel jenseits der äußeren Planeten und der Oortschen Wolke ganz außen.
+
+Innerhalb der von den einzelnen Sonnenbegleitern beherrschten Raumbereiche – ihrer Hill-Sphären – befinden sich oft kleinere Himmelskörper als umlaufende Begleiter dieser Objekte. Nach dem altbekannten Mond der Erde werden sie analog ebenfalls als Monde, aber auch als Satelliten oder Trabanten bezeichnet. Bis auf den Erdmond und den Plutomond Charon sind sie zumindest bei den Planeten und Zwergplaneten wesentlich kleiner als ihr Hauptkörper. Mondlose Ausnahmen unter den Planeten sind nur Merkur und Venus. Eine definitiv untere Grenzgröße, ab der man wie bei den Bestandteilen der Ringe der Gasplaneten nicht mehr von einem Mond spricht, wurde noch nicht offiziell festgelegt.
+
+Die Sonne macht 99,86 Prozent der Gesamtmasse des Systems aus. Auch ihr Durchmesser ist mit etwa 1,39 Millionen Kilometern bei weitem größer als der Durchmesser aller anderen Objekte im System. Die größten dieser Objekte sind die acht Planeten, die vier Jupitermonde Ganymed, Kallisto, Europa und Io (die Galileischen Monde), der Saturnmond Titan und der Erdmond. Zwei Drittel der restlichen Masse von 0,14 Prozent entfallen dabei auf Jupiter. (siehe auch: Liste der massereichsten Objekte im Sonnensystem).
+
+Als Folge der Entstehung des Sonnensystems bewegen sich alle Planeten, Zwergplaneten und der Asteroidengürtel in einem rechtläufigen Orbit um die Sonne. Die meisten größeren Monde bewegen sich ebenfalls in diese Richtung um ihren Hauptkörper. Auch die Rotation der meisten größeren Körper des Sonnensystems erfolgt in rechtläufigem Drehsinn. Von den Planeten dreht sich lediglich die Venus entgegengesetzt, und die Rotationsachse von Uranus liegt nahezu in seiner Bahnebene.
+
+Zone der Planeten
+Die Umlaufbahnen der vier inneren (links) und der vier äußeren Planeten (rechts)
+
+Der Sonne am nächsten befinden sich die inneren, erdähnlichen Planeten Merkur (Abstand zur Sonne 57,9 × 106 km, beziehungsweise 0,39 AE), Venus (108,2 × 106 km, 0,72 AE), Erde (149,6 × 106 km, 1 AE) und Mars (227,9 × 106 km, 1,52 AE). Ihr Durchmesser beträgt zwischen 4.878 km und 12.756 km, ihre Dichte zwischen 3,95 g/cm3 und 5,52 g/cm3. Innerhalb der habitablen Zone um die Sonne befinden sich jedoch nur die Erde und, je nach Modell, noch ganz knapp der Mars.
+
+Zwischen Mars und Jupiter befindet sich der so genannte Asteroidengürtel, eine Ansammlung von Kleinplaneten. Die meisten dieser Asteroiden sind nur wenige Kilometer groß (siehe Liste der Asteroiden) und nur wenige haben einen Durchmesser von 100 km oder mehr. Ceres ist mit etwa 960 km der größte dieser Körper und gilt als Zwergplanet. Die Bahnen der Asteroiden sind teilweise stark elliptisch, einige kreuzen sogar die Merkur- (Icarus) beziehungsweise die Neptunbahn (Dioretsa). Zu den äußeren Planeten zählen die Gasriesen Jupiter (778,3 × 106 km, 5,2 AE) und Saturn (1,429 × 109 km, 9,53 AE) sowie die Eisriesen Uranus (2,875 × 109 km, 19,2 AE) und Neptun (4,504 × 109 km, 30,1 AE) mit Dichten zwischen 0,7 g/cm3 und 1,66 g/cm3.
+Die gerundeten (und genauen) Verhältnisse
+zwischen den Umlaufzeiten der Planeten
+Merkur 	Merkur 	2:5 	(2:5,11) 	Venus 	Venus
+Venus 	Venus 	8:13 	(8:13,004) 	Erde 	Erde
+Erde 	Erde 	1:2 	(1:1,88) 	Mars 	Mars
+Mars 	Mars 	1:6 	(1:6,31) 	Jupiter 	Jupiter
+Jupiter 	Jupiter 	2:5 	(2:4,97) 	Saturn 	Saturn
+Saturn 	Saturn 	1:3 	(1:2,85) 	Uranus 	Uranus
+Uranus 	Uranus 	1:2 	(1:1,96) 	Neptun 	Neptun
+
+Die mittleren Abstände der Planeten von der Sonne lassen sich durch mathematische Reihen wie der Titius-Bode-Reihe annähernd beschreiben. Diese gewisse Regelmäßigkeit der Bahnabstände dürfte auf Resonanzeffekte bei der Entstehung des Sonnensystems zurückzuführen sein. Dass sich der mittlere Abstand des Asteroidengürtels ebenfalls in dieser Reihe einordnen lässt, der von Neptun jedoch nicht, gab und gibt Anlass zu Spekulationen über kosmische Katastrophen.
+
+Am nächsten können sich Merkur und Venus mit einer minimalen Distanz von 0,26 AE kommen. Geringfügig höher ist die minimale Entfernung von Venus und Erde. Nimmt man die mittleren Bahnabstände, so sind Venus und Erde die Planeten mit der geringsten Distanz zueinander (41 Mio. km oder knapp 0,28 AE).
+
+Die Planeten Merkur, Venus, Mars, Jupiter und Saturn waren schon im Altertum als Wandelsterne bekannt und wurden mit einzelnen Göttern in Verbindung gebracht. Seit der Antike sind sie von den Römern nach Göttern der römischen Mythologie benannt. Die 1781 und 1846 entdeckten Planeten Uranus und Neptun sowie der 1930 entdeckte Zwergplanet Pluto – der bis 2006 auch als Planet eingestuft worden war – wurden aus traditionellen Gründen in gleicher Weise benannt.
+
+Merksatz zur Reihenfolge der Planeten
+
+Künstlerische Darstellung der Planeten (nicht maßstabsgetreu)
+
+Um sich die Reihenfolge der Planeten – von der Sonne aus gesehen – leichter einprägen zu können, wurden verschiedene Merksprüche aufgestellt, so genannte Eselsbrücken. Der bis 2006 anwendbare, bis dahin verbreitetste deutschsprachige Merksatz ist ein Akrostichon und lautete:
+
+„Mein Vater erklärt mir jeden Sonntag unsere neun Planeten.“[1]
+
+(Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun, Pluto)
+
+Da Pluto nicht mehr der von der IAU (Internationale Astronomische Union) im August 2006 beschlossenen Definition für Planeten des Sonnensystems entspricht, ist dieser Merksatz nicht mehr gültig.
+
+Es wurden bereits neue Varianten für die verbleibenden acht Planeten vorgeschlagen (z. B. „Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel“).[1]
+
+Eine zweite Variante, die weiterhin den Fokus auf das Wort „Planet“ richtet, lautet: „Mein Vater erklärt mir jeden Sonntag unsere Nachbarplaneten“.
+
+Vor der Entdeckung Plutos wurde der Spruch „Man verachte einen Menschen in (= lat. „Iupiter”) seinem Unglück nie“ gelehrt.
+
+Ein Merkspruch, der auch die Kleinkörper berücksichtigt, lautet:
+
+„Mein Vater erklärt mir an jedem Sonntag unsere natürliche kosmische Ordnung.“,[1] zu lesen als
+
+Merkur Venus Erde Mars Asteroiden Jupiter Saturn Uranus Neptun Kuipergürtel Oortsche Wolke
+Äußere Zonen
+Logarithmische Entfernungsdarstellung bis zum Doppelsternsystem α-Centauri. Als Transneptunische Objekte in den äußeren Regionen dargestellt: Kuipergürtel, Pluto, Termination Shock, Heliopause, Wasserstoffwand (Hydrogen wall), Bow Shock, Interstellares Medium, Lokale Wolke, Oortsche Wolke, G-Wolke.
+Die Umlaufbahnen der Objekte des Sonnensystems im Maßstab (von links oben im Uhrzeigersinn)
+
+Seit den 1990er-Jahren wurden über 500 Objekte gefunden, die sich jenseits der Neptunbahn bewegen. Fast alle dieser Objekte sind 4,5–7,5 Milliarden km (30–50 AE) von der Sonne entfernt und bilden dort den Kuipergürtel. Er ist ein Reservoir für die Kometen mit mittleren Umlaufperioden. Die Objekte dieser Zone sind wahrscheinlich nahezu unveränderte Überbleibsel aus der Entstehungsphase des Sonnensystems; man nennt sie deshalb auch Planetesimale.
+
+Der Sonnenwind wirkt im interplanetaren Raum ungehindert bis in den Kuipergürtel und verdrängt die interstellare Materie. Jenseits des Kuipergürtels verlangsamt und verdichtet sich der Teilchenstrom der Sonne durch die Wechselwirkung mit dem interstellaren Medium und bildet als äußere Schale der Heliosphäre das Heliosheath. Die Grenzschicht zwischen der Heliosphäre und dem interstellaren Medium ist die Heliopause. Man vermutet sie in einer Entfernung von circa 150 AE (dem 4-fachen Abstand Pluto/Sonne). Der genaue Abstand ist jedoch bis heute nicht bekannt.
+
+Außerhalb der Heliopause befindet sich bis zu einem Abstand zur Sonne von circa 1,5 Lichtjahren (etwa 100.000 AE) theoretisch die Oortsche Wolke. Durch den Einfluss der Gravitation vorbeiziehender Sterne werden aus ihr vermutlich Körper herausgelöst und fallen als langperiodische Kometen in die inneren Bereiche des Sonnensystems. Einige dieser Kometen verbleiben dann auf stark elliptischen Bahnen in der Nähe der Sonne, andere werden von den Planeten, insbesondere von Jupiter, gestört und abgelenkt, so dass sie aus dem Sonnensystem katapultiert werden oder auf Planeten oder in die Sonne stürzen.
+Ausmaße
+
+Da astronomische Dimensionen für die meisten Menschen schwer vorstellbar sind, ist ein maßstabsgerecht verkleinertes Modell des Sonnensystems oder der Besuch eines Planetenweges hilfreich, um sich die Größenverhältnisse und Distanzen der Objekte zu veranschaulichen.
+
+Abstandverhältnis der Erde zur Sonne:
+Abstandverhältnis Erde/Mond, Venus, Merkur, Sonne mit Bereichen der Umlaufbahnen. Entfernungen und Größe der Sonne sind hierbei maßstabsgetreu, Planeten müssten unter 0,06 Pixel groß sein.
+Meyers Konversationslexikon 1885–1890. Größenvergleich: die Sonnenscheibe gleich 1 Fuß Durchmesser angenommen
+Siehe auch: Liste der Planeten des Sonnensystems
+Umgebung
+Lokale stellare Nachbarschaft
+Bewegungsrichtung des Sonnensystems durch das lokale instellare Medium
+
+Der sonnennächste individuelle Stern ist der rote Zwerg Proxima Centauri. Sein Abstand zum Sonnensystem beträgt etwa 4,22 Lichtjahre bzw. 268.000 AE. Das nächstgelegene Planetensystem ist Alpha Centauri in 4,34 Lj (1,33 pc) Entfernung,[2] an das Proxima Centauri wahrscheinlich gravitativ gebunden ist[3]. Hauptkomponenten von Alpha Centauri sind zwei sonnenähnliche Sterne von denen einer von einem planetaren Begleiter umkreist wird, der 2012 entdeckt wurde[4]. Der Planet verfügt über Erdmasse und umrundet sein Zentralgestirn Alpha Centauri B innerhalb von 3,236 Tagen in 6 Mio. km (0,04 AE) Entfernung deutlich außerhalb dessen habitabler Zone[5]. Das Alpha-Centauri-System enthält somit sowohl die drei sonnennächsten Sterne als auch den nächstgelegenen extrasolaren Planeten.
+
+Die stellare Nachbarschaft des Sonnensystems (siehe Liste der nächsten Sterne) wird von massearmen roten Zwergen dominiert. Von den 64 Sternen innerhalb von 5 Parsec um die Sonne sind allein 49 rote Zwergsterne der Spektralklasse M. Lediglich zwei Sterne (Alpha Centauri A und Tau Ceti) gehören wie die Sonne zum Spektraltyp G. Der hellste und massereichste Stern in diesem Gebiet ist Sirius mit 2,12 Sonnenmassen[6], welcher auch der hellste Stern am irdischen Nachthimmel ist. Bei mehreren der nahen Sterne konnten inzwischen Planetensysteme oder einzelne Exoplaneten nachgewiesen oder Hinweise darauf gefunden werden, darunter Alpha Centauri, Tau Ceti, Epsilon Eridani, Gliese 674, Gliese 687, Gliese 832, Gliese 876, Groombridge 34 und Kapteyns Stern.
+
+Die durchschnittliche Sternendichte in diesem Gebiet mit einem Radius von fünf Parsec um das Sonnensystem beträgt etwa 4 Sterne pro 1000 Kubiklichtjahren (einen Würfel von 10 lj Kantenlänge), der durchschnittliche Abstand zwischen den Sternen der solaren Nachbarschaft liegt bei etwa 6 Lichtjahren[7].
+
+Das sonnennahe Gebiet ist arm an Riesensternen und Sternenhaufen. Die nächstgelegenen roten Riesen sind Pollux und Arcturus in 34 bzw. 37 Lichtjahren Entfernung. Der nächste blaue Riesenstern ist Elnath in erst 130 Lichtjahren Entfernung. Der nächste offene Sternhaufen, die Hyaden, ist 153 Lichtjahre entfernt. Das nächstgelegene bekannte schwarze Loch ist Teil des Systems A0620−00 in etwa 3000 Lichtjahren Entfernung[8].
+Erweiterte Nachbarschaft der Sonne in der lokalen Blase. (Draufsicht auf galaktische Ebene, galaktisches Zentrum ist oben)
+
+Die galaktische Region um das Sonnensystem ist weitgehend frei von interstellarem Staub, da die Sonne seit etwa fünf bis zehn Millionen Jahren[9] eine Region durchquert, die die Lokale Blase genannt wird. Sie misst entlang der galaktischen Ebene circa 200 und senkrecht zu ihr circa 600 Lichtjahre und besteht aus sehr heißem und extrem verdünntem Gas, hauptsächlich Wasserstoff, welches den interstellaren Staub fernhält. Innerhalb dieser Blase bewegt sich das Sonnensystem zurzeit durch eine lokale interstellare Wolke, die als lokale Flocke bekannt ist.[10] Das Sonnensystem durchquert die Lokale Flocke seit ca. 100.000 Jahren und wird sie voraussichtlich in 10.000 bis 20.000 Jahren wieder verlassen. In der lokalen Wolke befinden sich bei variierender Teilchendichte durchschnittlich 0,26 Atome pro Kubikzentimeter. Die Temperatur der Wolke beträgt etwa 6000 Kelvin, etwas heißer als an der Oberfläche der Sonne. Die Lokale Blase ist das Ergebnis von Supernovae, die in den letzten 10 bis 20 Millionen Jahren explodierten.[9] Der größte Teil des Gases der Blase wird im Einflussbereich der Sonne wiederum durch den ihm entgegenstürmenden Sonnenwind abgeschirmt.
+
+Eine noch größere Blase wurde 500 Lichtjahre entfernt in Richtung des Sternbildes Skorpion entdeckt und Loop I genannt. Sie hat einen Durchmesser von etwa 1000 Lichtjahren. In ihrem Zentrum befindet sich die junge Scorpius-Centaurus-Assoziation. Es wird vermutet, dass die Milchstraße von Hunderten solcher heißen Blasen durchsetzt ist.
+Milchstraßensystem
+Die ungefähre Position der Sonne im Orionarm der Milchstraße und der Verlauf ihres galaktischen Orbits
+
+Die Sonne mit ihren Begleitern ist, wie alle Sterne, Teil eines Sternhaufens bzw. einer Galaxie. Sie ist mit mindestens 100 Milliarden (manche Schätzungen gehen bis 400 Milliarden) weiteren Sternen ein Mitglied des Milchstraßensystems, einer Balkenspiralgalaxie mit einem Durchmesser von etwa 100.000 Lichtjahren. Das Sonnensystem befindet sich zwischen zwei der spiralförmigen Sternkonzentrationen, zwischen dem Perseusarm und dem Sagittariusarm, in einer lokalen Abzweigung, dem Orionarm. Es liegt rund 15 Lichtjahre nördlich der galaktischen Symmetrieebene, ist etwa 27.000 Lichtjahre vom galaktischen Zentrum entfernt und umkreist es mit einer Geschwindigkeit von rund 240 km/s binnen etwa 210 Millionen Jahren, einem galaktischen Jahr.[11]. Neben dieser galaktischen Rotation bewegt sich die Sonne nach den aktuellen Werten von Anfang des 21. Jahrhunderts mit 19,7 km/s in Richtung des Sonnenapex, der bei einer galaktischen Länge von 57° und einer galaktischen Breite von 22° in Richtung des Sternbildes Herkules liegt. Dabei kreuzt die Sonne die Scheibenebene etwa alle 30 Millionen Jahre.
+
+Die Lage der mittleren Bahnebene der Planeten des Sonnensystems entspricht nicht der Äquatorebene der Galaxis, sondern ist stark dagegen geneigt. Der nördliche Ekliptikpol liegt im Sternbild Drache, an der Himmelssphäre nur circa 30 Grad vom galaktischen Äquator (in dem am Nachthimmel schimmernden Band der Milchstraße). Der südliche Pol der Erdbahnebene liegt im Sternbild Schwertfisch. Der Nordpol der Galaxie befindet sich 30 Grad über der Ekliptik im Haar der Berenike, der galaktische Südpol im Bildhauer. Das Zentrum der Galaxie liegt nahe der Erdbahnebene, perspektivisch im Sternbild Schütze. Von der hellen zentralen Verdickung, der Bulge, scheint im sichtbaren Licht nur wenig auf, da sie im Scheibenbereich auch von großen Mengen interstellaren Staubes umgeben ist.
+
+Der Drehsinn des Milchstraßensystems stimmt nicht mit dem der Planeten um die Sonne überein. Die galaktische Scheibe rotiert von Norden gesehen im Uhrzeigersinn, als würden die Spiralarme vom Zentralbereich nachgeschleppt, und damit gegenläufig zum Drehsinn des Sonnensystems.
+
+Viele Astronomen vermuten, dass die Spiralstruktur in der Verteilung der Sterne auf Dichtewellen noch unbekannten Ursprungs zurückgeht und die Gas- und Staubmassen der galaktischen Scheibe während deren Rotation an ihnen auflaufen und dadurch zur Bildung neuer Sterne angeregt werden, siehe Dichtewellentheorie. Manche Paläontologen sehen in datierten Massenaussterben und Impaktkratern periodische Muster und machen diese Dichtewellen, obiges Pendeln durch die Scheibenebene oder einen unentdeckten Begleiter der Sonne (Nemesis) dafür verantwortlich, indem Kometen der Oortschen Wolke aus der Bahn gebracht werden. Die Existenz dieser Muster ist jedoch mittlerweile widerlegt.[12]
+Entstehung
+Die Bahnen der Planeten um die Sonne liegen ungefähr in einer gemeinsamen Ebene. Diese Auffälligkeit wird durch die Entstehung des Sonnensystems erklärt.
+
+Die derzeit gängige Theorie zur Entstehung des Sonnensystems basiert auf der Kant’schen Nebularhypothese, nach der die großen Körper etwa zeitgleich aus einer rotierenden Wolke aus Gas und Staub entstanden sind. Die Idee einer Urwolke hatte der deutsche Philosoph Immanuel Kant im Jahr 1755 in seinem Werk Allgemeine Naturgeschichte und Theorie des Himmels formuliert, sie ist aber erst in den letzten Jahrzehnten von den Astronomen neu aufgegriffen worden.
+Urwolke
+→ Hauptartikel: Urwolke
+
+Nach den ausgereifteren Ansichten der heutigen Zeit bewegte sich vor etwa 4,6 Milliarden Jahren an Stelle des Sonnensystems eine ausgedehnte Molekülwolke um ein gemeinsames Zentrum innerhalb des Milchstraßensystems. Die Wolke bestand zu über 99 % aus den Gasen Wasserstoff und Helium sowie einem geringen Anteil mikrometergroßer Staubteilchen, die sich aus schwereren Elementen und Verbindungen, wie Wasser, Kohlenmonoxid, Kohlendioxid, anderen Kohlenstoffverbindungen, Ammoniak und Siliziumverbindungen zusammensetzten. Der Wasserstoff und der überwiegende Teil des Heliums war bereits beim Urknall entstanden. Die schwereren Elemente und Verbindungen wurden im Innern von Sternen erzeugt und bei deren Explosion als Sternenstaub freigesetzt. Teile der Materiewolke zogen sich infolge der eigenen Schwerkraft zusammen und verdichteten sich. Den Anstoß hierzu könnte die Explosion einer relativ nahen Supernova gegeben haben, deren Druckwellen durch die Wolke wanderten. Diese Verdichtungen führten zu der Bildung von vermutlich mehreren hundert oder gar tausend Sternen in einem Sternhaufen, der sich wahrscheinlich nach einigen hundert Millionen Jahren in freie Einzel- oder Doppelsterne auflöste. Im Folgenden wird die Entwicklung desjenigen „Fragments“ der Materiewolke betrachtet, aus dem sich das Sonnensystem bildete, – der Sonnennebel.
+
+Da bei der Kontraktion der Drehimpuls erhalten bleiben muss, hat sich eine schon minimal existierende Rotation des kollabierenden Nebels erhöht (Pirouetteneffekt). Die dabei entstehenden, nach außen wirkenden Fliehkräfte führten dazu, dass sich die Wolke zu einer rotierenden Akkretionsscheibe formte.
+
+Fast die gesamte Materie des Sonnennebels stürzte dabei in das Zentrum und bildete einen Protostern, der weiter kollabierte. Im Innern dieses Gaskörpers stiegen Druck und Temperatur so weit an, bis ein Kernfusionsprozess gezündet wurde, bei dem Wasserstoffkerne zu Heliumkernen verschmelzen. Die dabei freigesetzte Energie erzeugte einen Strahlungsdruck, der der Gravitation entgegenwirkte und die weitere Kontraktion aufhielt. Ein stabiler Stern – die Sonne – war entstanden.
+Entstehung der Planeten
+Zeichnung einer protoplanetaren Scheibe (NASA)
+
+In der verbleibenden protoplanetaren Scheibe führte nach dem bisherigen Modell die Verklumpung von Staubteilchen (Koagulation) zur Bildung von Planetesimalen, den Bausteinen der Planeten. Diese kilometergroßen Gebilde besaßen genug Masse, um sich durch ihre Gravitation mit anderen Planetesimalen zu größeren Objekten zu vereinigen. Der Zeitpunkt der Bildung der berggroßen Planetesimale, und damit der Beginn der Planetenentstehung, konnte durch Untersuchungen an bestimmten Meteoriten festgelegt werden: er fand vor 4,568 Milliarden Jahren (mit einer Unsicherheit von 2 Millionen Jahren) statt.[13]
+
+Nach neueren Modellen könnten auch gravitative Instabilitäten zu sich selbst verstärkenden Massekonzentrationen und damit zur Bildung von Planetesimalen führen. Dabei verlief das Wachstum nicht gleichmäßig. Die schwersten Objekte übten die größten Gravitationskräfte aus, zogen Materie aus einem weiten Umkreis an und konnten so noch schneller wachsen. Der Protojupiter störte schließlich mit seinem Gravitationsfeld andere Planetesimale und beeinflusste deren Wachstum. Offensichtlich verhinderte er auch die Bildung eines größeren Körpers zwischen der Mars- und Jupiterbahn, was zur Entstehung des Asteroidengürtels führte.
+
+Einen maßgeblichen Einfluss auf die Prozesse der Planetenentstehung hatte der Abstand der Protoplaneten zur jungen Sonne. In Sonnennähe kondensierten schwerflüchtige Elemente und Verbindungen aus, während leichtflüchtige Gase durch den kräftigen Sonnenwind weggerissen wurden. Hier entstanden die inneren Planeten, Merkur, Venus, Erde und Mars mit festen silikatischen Oberflächen. In den kälteren Außenregionen konnten die entstehenden Planeten auch die leichtflüchtigen Gase, wie Wasserstoff, Helium und Methan festhalten. Hier bildeten sich die Gasplaneten Jupiter, Saturn, Uranus und Neptun.
+
+Ein Teil der Materie, der nicht von den Planeten eingefangen wurde, verband sich zu kleineren Objekten, den Kometen und Asteroiden. Da diese Himmelskörper seit der Frühzeit des Sonnensystems nahezu unverändert blieben, kann deren Erforschung wichtige Hinweise zu dessen Entstehungsgeschichte liefern. Ebenfalls sehr wertvolle Erkenntnisse brachte die Untersuchung von Meteoriten. Dies sind Bruchstücke von Planetoiden, die ins Schwerefeld der Erde gerieten.
+Offene Fragen
+
+Auch wenn die Grundprinzipien der Planetenentstehung bereits als weitgehend verstanden gelten, gibt es doch noch zahlreiche offene und nicht unwesentliche Fragen.
+
+Eines der Probleme ist die paradox erscheinende Verteilung des Drehimpulses auf die Sonne und die Planeten, denn der Zentralkörper enthält fast 99,9 % der Masse des gesamten Systems, besitzt aber nur etwa 0,5 % des Drehimpulses; der Hauptanteil daran steckt im Bahndrehimpuls ihrer Begleiter.
+
+So ist auch die Neigung der Äquatorebene der Sonne gegenüber der mittleren Bahnebene der Planeten von etwa 7° ein Rätsel. Aufgrund ihrer überaus dominierenden Masse dürfte die Sonne (anders als zum Beispiel die Erde) durch die Wechselwirkung mit ihnen kaum ins Taumeln geraten. Möglicherweise hatte sie in ihrer Frühzeit einen Zwergstern als Begleiter oder erhielt „Besuch“ von einem Nachbarstern des ursprünglichen Sternhaufens, der durch seine Anziehung die protoplanetare Scheibe um etwa 7° kippte, während die Sonne aufgrund ihrer geringen räumlichen Ausdehnung weitgehend unbeeinflusst blieb.[14] Außerdem muss die Allgemeingültigkeit der Aussagen über die Entstehung von Planetensystemen angezweifelt werden, da auch Exoplaneten entdeckt wurden, deren Bahnen entgegen der Rotation ihres Zentralsterns verlaufen, was nach dem oben beschriebenen Modell nicht möglich wäre.[15]
+Siehe auch
+
+    Liste der massereichsten Objekte im Sonnensystem
+    Liste der Planeten des Sonnensystems
+    Entstehung der Erde, Entstehung des Mondes
+    Liste der Entdeckungen der Planeten und ihrer Monde
+    Modell des Sonnensystems - Planetenweg - Orrery
+ 
